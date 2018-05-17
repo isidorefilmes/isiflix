@@ -1,0 +1,16 @@
+D:\Documents and Settings\Shedo0o\Desktop\SudoMe\SudoMe\obj\Debug\SudoMe.exe
+D:\Documents and Settings\Shedo0o\Desktop\SudoMe\SudoMe\obj\Debug\SudoMe.pdb
+D:\Documents and Settings\Shedo0o\Desktop\SudoMe\SudoMe\bin\Debug\SudoMe.exe
+D:\Documents and Settings\Shedo0o\Desktop\SudoMe\SudoMe\bin\Debug\SudoMe.pdb
+D:\Documents and Settings\Shedo0o\Desktop\SudoMe\SudoMe\obj\Debug\ResolveAssemblyReference.cache
+D:\Documents and Settings\Shedo0o\Desktop\SudoMe\SudoMe\obj\Debug\SudoMe.SudoMe.resources
+D:\Documents and Settings\Shedo0o\Desktop\SudoMe\SudoMe\obj\Debug\SudoMe.Properties.Resources.resources
+D:\Documents and Settings\Shedo0o\Desktop\SudoMe\SudoMe\obj\Debug\SudoMe.csproj.GenerateResource.Cache
+D:\Shedo0o\Work\SudoMe\SudoMe\obj\Debug\SudoMe.exe
+D:\Shedo0o\Work\SudoMe\SudoMe\obj\Debug\SudoMe.pdb
+D:\Shedo0o\Work\SudoMe\SudoMe\bin\Debug\SudoMe.exe
+D:\Shedo0o\Work\SudoMe\SudoMe\bin\Debug\SudoMe.pdb
+D:\Shedo0o\Work\SudoMe\SudoMe\obj\Debug\ResolveAssemblyReference.cache
+D:\Shedo0o\Work\SudoMe\SudoMe\obj\Debug\SudoMe.SudoMe.resources
+D:\Shedo0o\Work\SudoMe\SudoMe\obj\Debug\SudoMe.Properties.Resources.resources
+D:\Shedo0o\Work\SudoMe\SudoMe\obj\Debug\SudoMe.csproj.GenerateResource.Cache
