@@ -1,0 +1,18 @@
+D:\Documents and Settings\Administrator\Desktop\Boids\Boids\obj\Debug\ResolveAssemblyReference.cache
+D:\Documents and Settings\Administrator\Desktop\Boids\Boids\obj\Debug\Boids.Properties.Resources.resources
+D:\Documents and Settings\Administrator\Desktop\Boids\Boids\obj\Debug\Boids.csproj.GenerateResource.Cache
+D:\Documents and Settings\Administrator\Desktop\Boids\Boids\bin\Debug\Boids.exe
+D:\Documents and Settings\Administrator\Desktop\Boids\Boids\bin\Debug\Boids.pdb
+D:\Documents and Settings\Administrator\Desktop\Boids\Boids\obj\Debug\Boids.exe
+D:\Documents and Settings\Administrator\Desktop\Boids\Boids\obj\Debug\Boids.pdb
+D:\Documents and Settings\Administrator\Desktop\Boids\Boids\obj\Debug\Boids.Form1.resources
+D:\Documents and Settings\Administrator\Desktop\My Technical Work\Boids\Boids\obj\Debug\Boids.exe
+D:\Documents and Settings\Administrator\Desktop\My Technical Work\Boids\Boids\obj\Debug\Boids.pdb
+D:\Documents and Settings\Administrator\Desktop\My Technical Work\Boids\Boids\bin\Debug\Boids.exe
+D:\Documents and Settings\Administrator\Desktop\My Technical Work\Boids\Boids\bin\Debug\Boids.pdb
+D:\Documents and Settings\Administrator\Desktop\My Technical Work\Boids\Boids\obj\Debug\ResolveAssemblyReference.cache
+D:\Documents and Settings\Administrator\Desktop\My Technical Work\Boids\Boids\obj\Debug\Boids.Form1.resources
+D:\Documents and Settings\Administrator\Desktop\My Technical Work\Boids\Boids\obj\Debug\Boids.Properties.Resources.resources
+D:\Documents and Settings\Administrator\Desktop\My Technical Work\Boids\Boids\obj\Debug\Boids.csproj.GenerateResource.Cache
+D:\Shedo0o\Work\Boids\Boids\obj\Debug\Boids.exe
+D:\Shedo0o\Work\Boids\Boids\obj\Debug\Boids.pdb
