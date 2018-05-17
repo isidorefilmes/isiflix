@@ -1,0 +1,5 @@
+C:\vbn\ChessNet\Chess\bin\Debug\Chess.exe
+C:\vbn\ChessNet\Chess\bin\Debug\Chess.pdb
+C:\vbn\ChessNet\Chess\obj\Debug\ResolveAssemblyReference.cache
+C:\vbn\ChessNet\Chess\obj\Debug\Chess.exe
+C:\vbn\ChessNet\Chess\obj\Debug\Chess.pdb
