@@ -1,0 +1,8 @@
+C:\Documents and Settings\Trent Jackson\Desktop\Blaster Master C#\Blaster Master\bin\Release\BlasterMaster.exe
+C:\Documents and Settings\Trent Jackson\Desktop\Blaster Master C#\Blaster Master\bin\Release\BlasterMaster.pdb
+C:\Documents and Settings\Trent Jackson\Desktop\Blaster Master C#\Blaster Master\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\Trent Jackson\Desktop\Blaster Master C#\Blaster Master\obj\Release\BlasterMaster.Form1.resources
+C:\Documents and Settings\Trent Jackson\Desktop\Blaster Master C#\Blaster Master\obj\Release\BlasterMaster.Properties.Resources.resources
+C:\Documents and Settings\Trent Jackson\Desktop\Blaster Master C#\Blaster Master\obj\Release\Blaster Master.csproj.GenerateResource.Cache
+C:\Documents and Settings\Trent Jackson\Desktop\Blaster Master C#\Blaster Master\obj\Release\BlasterMaster.exe
+C:\Documents and Settings\Trent Jackson\Desktop\Blaster Master C#\Blaster Master\obj\Release\BlasterMaster.pdb
