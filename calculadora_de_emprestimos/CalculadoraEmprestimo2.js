@@ -18,15 +18,15 @@ var decimalPointDelimiter = "."
 
 
 var iDay = "O dia da data deve estar entre 1 e 31.  Por favor corrija."
-var iMonth = "O mês da data deve estar 1 e 12.  Por favor corrija."
-var icpfcgc = "O CPF/CNPJ é inválido. Por favor corrija."
-var iYear = "O ano deve ter 2 ou 4 dígitos.  Por favor corrija."
+var iMonth = "O mÃªs da data deve estar 1 e 12.  Por favor corrija."
+var icpfcgc = "O CPF/CNPJ Ã© invÃ¡lido. Por favor corrija."
+var iYear = "O ano deve ter 2 ou 4 dÃ­gitos.  Por favor corrija."
 var iDatePrefix = ""
-var iDateSuffix = " não é uma data válida.  Por favor corrija."
+var iDateSuffix = " nÃ£o Ã© uma data vÃ¡lida.  Por favor corrija."
 var pEntryPrompt = "Por favor entre um "
-var pDay = "número de dia entre 1 e 31."
-var pMonth = "número de mês entre 1 e 12."
-var pYear = "número de ano com 2 ou 4 dígitos."
+var pDay = "nÃºmero de dia entre 1 e 31."
+var pMonth = "nÃºmero de mÃªs entre 1 e 12."
+var pYear = "nÃºmero de ano com 2 ou 4 dÃ­gitos."
 var defaultEmptyOK = false
 
 
@@ -504,7 +504,7 @@ function checkInput(i)
         if (!checkInput(document.form1.juros) ||
             !checkInput(document.form1.parcela) ||
             !checkInput(document.form1.montante)) {
-            alert("Preencha 3 valores para calcular o 4º.")
+            alert("Preencha 3 valores para calcular o 4Âº.")
             return
         }
             opcao = 1
@@ -513,7 +513,7 @@ function checkInput(i)
         if (!checkInput(document.form1.periodo) ||
             !checkInput(document.form1.parcela) ||
             !checkInput(document.form1.montante)) {
-            alert("Preencha 3 valores para calcular o 4º.")
+            alert("Preencha 3 valores para calcular o 4Âº.")
             return
         }
         opcao = 2
@@ -522,7 +522,7 @@ function checkInput(i)
               if (!checkInput(document.form1.periodo) ||
                   !checkInput(document.form1.juros) ||
                   !checkInput(document.form1.montante)) {
-                  alert("Preencha 3 valores para calcular o 4º.")
+                  alert("Preencha 3 valores para calcular o 4Âº.")
                   return
               }
           opcao = 3
@@ -531,12 +531,12 @@ function checkInput(i)
                 if (!checkInput(document.form1.juros) ||
                     !checkInput(document.form1.parcela) ||
                     !checkInput(document.form1.periodo)) {
-                    alert("Preencha 3 valores para calcular o 4º.")
+                    alert("Preencha 3 valores para calcular o 4Âº.")
                     return
                 }
             opcao = 4
          } else {
-                  alert("Preencha apenas 3 valores para calcular o 4º.")
+                  alert("Preencha apenas 3 valores para calcular o 4Âº.")
                   return
            }
 
@@ -545,7 +545,7 @@ function checkInput(i)
       s = s.replace(",", ".")
       if(!isFloat(s))
       {
-        alert("Período deve ser um valor inteiro.")
+        alert("PerÃ­odo deve ser um valor inteiro.")
         return
       }
 
@@ -559,7 +559,7 @@ function checkInput(i)
 
         if(!isFloat(s))
         {
-          alert("Taxa de Juros deve ser um valor númerico, tendo a vírgula(,) como delimitador da parte fracionária.")
+          alert("Taxa de Juros deve ser um valor nÃºmerico, tendo a vÃ­rgula(,) como delimitador da parte fracionÃ¡ria.")
           return
         }
 
@@ -573,7 +573,7 @@ function checkInput(i)
       s = s.replace(",", ".")
           if(!isFloat(s))
           {
-                alert("Valor da prestação deve ser um valor númerico, tendo a vírgula(,) como delimitador dos centavos.")
+                alert("Valor da prestaÃ§Ã£o deve ser um valor nÃºmerico, tendo a vÃ­rgula(,) como delimitador dos centavos.")
                 return
           }
 
@@ -588,7 +588,7 @@ function checkInput(i)
 
           if(!isFloat(s))
           {
-                alert("Valor do Financiamento deve ser um valor númerico maior que zero, tendo a vírgula(,) como delimitador dos centavos.")
+                alert("Valor do Financiamento deve ser um valor nÃºmerico maior que zero, tendo a vÃ­rgula(,) como delimitador dos centavos.")
                 return
           }
 
@@ -691,15 +691,15 @@ function checkInput(i)
 <tbody> 
 <tr> 
 <td colspan="2" style="text-align: center; background-color: rgb(217, 193, 138); border:none;" nowrap="nowrap"> 
-          <strong>Calcule a informação desejada</strong><br /> 
-          <span class="textoPequeno">(Informe 3 valores e pressione o botão &#8216;Calcular&#8217; para obter o 4º.)</span></td> 
+          <strong>Calcule a informaÃ§Ã£o desejada</strong><br /> 
+          <span class="textoPequeno">(Informe 3 valores e pressione o botÃ£o &#8216;Calcular&#8217; para obter o 4Âº.)</span></td> 
 </tr> 
 <tr> 
 <td style="background-color: rgb(252, 248, 239); border:none;"> 
-        <label for="meses">Nº de meses:</label></p> 
+        <label for="meses">NÂº de meses:</label></p> 
 </td> 
 <td style="background-color: rgb(252, 248, 239); border:none;"> 
-<input name="periodo" id="meses" size="10" title="Digite o número de meses" tabindex="1" value="" type="text"> 
+<input name="periodo" id="meses" size="10" title="Digite o nÃºmero de meses" tabindex="1" value="" type="text"> 
       </td> 
 </tr> 
 <tr> 
@@ -712,18 +712,18 @@ function checkInput(i)
 <tr> 
 <td style="background-color: rgb(252, 248, 239); border:none;" scope="row"> 
           <label for="prestacao"><br /> 
-          Valor da prestação:</p> 
-<p>          <span style="font-size: 0.8em;">(Considera-se que a 1a. prestação não seja no ato.)</span><br /> 
+          Valor da prestaÃ§Ã£o:</p> 
+<p>          <span style="font-size: 0.8em;">(Considera-se que a 1a. prestaÃ§Ã£o nÃ£o seja no ato.)</span><br /> 
           </label></td> 
 <td style="background-color: rgb(252, 248, 239); border:none;"> 
-<input name="parcela" id="prestacao" size="16" tabindex="3" title="Digite valor da prestação" value="" type="text"> 
+<input name="parcela" id="prestacao" size="16" tabindex="3" title="Digite valor da prestaÃ§Ã£o" value="" type="text"> 
       </td> 
 </tr> 
 <tr> 
 <td style="background-color: rgb(252, 248, 239); border:none;" scope="row"> 
 <p>          <label for="montante"><br /> 
           Valor financiado:<br /> 
-          <span style="font-size: 0.8em;">(O Valor financiado não inclui o valor da entrada.)</span></label> 
+          <span style="font-size: 0.8em;">(O Valor financiado nÃ£o inclui o valor da entrada.)</span></label> 
           </td> 
 <td style="background-color: rgb(252, 248, 239); border:none;"> 
 <input name="montante" size="16" tabindex="4" title="Digite o valor financiado" id="montante" value="" type="text"> 
